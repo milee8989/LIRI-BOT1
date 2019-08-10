@@ -1,5 +1,5 @@
 # LIRI-BOT1
-
+LIRI is like a SIRI
 LIRI will be a command line node app that takes in parameters and gives you back data.
 
 
@@ -33,6 +33,6 @@ Language of the movie.
 Plot of the movie.
 Actors in the movie.
 
-Do-What-It-Says 🆗
+Do-What-It-Says 
 
 The fs Node package is used to take the text inside of random.txt and then use it to call one of LIRI's commands.
